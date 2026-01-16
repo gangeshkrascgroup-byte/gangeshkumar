@@ -1,0 +1,9 @@
+{
+  "name": "GuardianAngel AI",
+  "description": "A high-security personal safety application designed for emergency situations, featuring real-time location tracking, AI-driven danger assessment, and automated emergency dispatch simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
